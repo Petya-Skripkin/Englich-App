@@ -1,0 +1,27 @@
+* {
+  padding: none;
+  margin: none;
+  border: none;
+  text-decoration: none;
+}
+
+.label {
+  width: 100%;
+  font-size: 24px;
+  font-weight: 600;
+  color: black;
+  text-align: center;
+}
+
+.button {
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 22px;
+  font-weight: 700;
+  background: none;
+  border: 1px solid green;
+  outline: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
